@@ -47,9 +47,8 @@ Je me spécialise dans le domaine des **Études Statistiques** et de la **Data S
 
 ## Contact
 
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)  
-- **LinkedIn** : [Votre profil LinkedIn](https://linkedin.com/in/votreprofil)  
-- **GitHub** : [Votre GitHub](https://github.com/votreprofil)
+- **Email** : [seyeyacine901@gmail.com](mailto:votre.email@example.com)  
+   **Linkedin**          https://www.linkedin.com/in/yacine-seye/
 
 ---
 
