@@ -4,7 +4,7 @@
 ## À propos de moi
 
 Bienvenu sur mon portfolio, je m'appelle Yacine Seye actuellement étudiante en **Master 2 en Statistiques Appliquées et Analyse Décisionnelle** à l'Université de Caen Normandie.  
-Débuté en **Master 1 en septembre 2024**, je me spécialise dans le domaine des **Études Statistiques** et de la **Data Science**. Passionné par l’analyse de données, la modélisation statistique et la prise de décision basée sur les données, je souhaite mettre mes compétences au service de projets innovants dans le secteur.
+Je me spécialise dans le domaine des **Études Statistiques** et de la **Data Science**. Passionné par l’analyse de données, la modélisation statistique et la prise de décision basée sur les données, je souhaite mettre mes compétences au service de projets innovants dans le secteur.
 
 ---
 
